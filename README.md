@@ -1,4 +1,4 @@
-# CSGO--Discord-Score-Bot
+# CSGO-Discord-Status-Bot
 
 A csgo discord bot, written in python.  
 Called with ">status" and responds with the live scores of the players csgo game.
